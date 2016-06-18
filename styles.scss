@@ -1,0 +1,7 @@
+$main-color: yellow;
+
+body{
+	background-color: lighten($main-color, 30);
+	padding: 100px;
+	font-size: 10px;
+}
